@@ -1,10 +1,10 @@
-# 「声でうごかす」 xR + AI(ChatGPT) + IoT プロトタイプ体験展示
+# "こえでうごかす" xR + AI(ChatGPT) + IoT プロトタイプ体験展示
 
 更新日 : 2023/11/21
 
 ![5438840a93ac57ae2dca4a92651e8473](https://i.gyazo.com/5438840a93ac57ae2dca4a92651e8473.jpg)
 
-このページは LODGE XR Talk Vol.10 Winter Special で展示予定の「声でうごかす」 xR + AI(ChatGPT) + IoT プロトタイプ体験展示 の内容紹介ページです。
+このページは LODGE XR Talk Vol.10 Winter Special で展示予定の "声でうごかす" xR + AI(ChatGPT) + IoT プロトタイプ体験展示 の内容紹介ページです。
 
 ![1111c05212bf4954f5b1838ec1e2d7b1](https://i.gyazo.com/1111c05212bf4954f5b1838ec1e2d7b1.png)
 
